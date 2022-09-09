@@ -23,3 +23,8 @@ If using a custom skin/song folder, change the following variables
 $ songdir
 $ skindir
 ```
+
+3. Run
+```
+./osuhelper.sh
+```
